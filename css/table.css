@@ -1,0 +1,35 @@
+.main{width: 100%;
+float: left;
+font-family:  monospace;}
+
+.main h1{color: #00000066;}
+
+.wrapper{width: 960px;
+margin: auto;}
+
+th{color: #000000c2;
+padding: 9px 0;}
+
+table{border-collapse: collapse;}
+tr{text-align: left;
+   border-top: 1px solid #80808057;
+ 
+}
+
+ td{    padding: 9px 30px 9px 0;
+    color: grey;
+    vertical-align: top;}
+
+
+
+
+.name{width: 25%;}
+
+i{    border: 1px solid;
+    padding: 4px;
+    background-color: #3e7dff;
+    color: white;
+    border-radius: 6px;
+    }
+
+
